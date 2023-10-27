@@ -4,4 +4,4 @@
 
 - Junior Web Developer
 - Tecnology **HTML, CSS, JAVASCRIPT, NODEJS.**
-- 
+
