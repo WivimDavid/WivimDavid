@@ -17,10 +17,10 @@ Working with technologies:
 
 My social networks are :
 
-<a href="https://www.instagram.com/wivimdavid/" type="target-blank" >
+<a href="https://www.instagram.com/wivimdavid/" type="target-blank" />
 <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" type="target-blank" alt="icone-instagram" />
   
-<a href="https://www.linkedin.com/in/wivim-david/" type="target-blank" >
+<a href="https://www.linkedin.com/in/wivim-david/" type="target-blank" />
 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" type="target-blank" alt="icone-linkedir" />
 <br>
 <br>
