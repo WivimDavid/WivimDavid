@@ -1,4 +1,4 @@
-### Hi 👋, I'm Wivim David, Developer Frontend </>. 
+### Hi 👋, I'm Wivim David, Developer Fullstack </>. 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WivimDavid&color=green" alt="Profile views"/> </p>
